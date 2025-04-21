@@ -1,4 +1,4 @@
-package la1m1e.wanderingtrader.mixin;
+package me.la1m1e.frequentwanderingtrader.mixin;
 
 import net.minecraft.server.world.ServerWorld;
 import net.minecraft.world.WanderingTraderManager;

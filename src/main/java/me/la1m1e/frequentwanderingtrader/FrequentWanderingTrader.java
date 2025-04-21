@@ -1,4 +1,4 @@
-package la1m1e.wanderingtrader;
+package me.la1m1e.frequentwanderingtrader;
 
 import net.fabricmc.api.ModInitializer;
 

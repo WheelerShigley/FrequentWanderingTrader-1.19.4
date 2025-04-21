@@ -14,7 +14,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "la1m1e.wanderingtrader.FrequentWanderingTrader"
+      "me.la1m1e.frequentwanderingtrader.FrequentWanderingTrader"
     ]
   },
   "mixins": [

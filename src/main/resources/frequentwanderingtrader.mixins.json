@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "la1m1e.wanderingtrader.mixin",
+  "package": "me.la1m1e.frequentwanderingtrader.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
   ],
